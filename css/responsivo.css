@@ -1,0 +1,153 @@
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+  .qualidade:after {
+    right: 72px;
+  }
+
+  .qualidade li {
+    padding: 0 10px;
+  }
+
+  .footer_redes ul li a {
+    padding: 6px;
+  }
+
+  .footer_redes ul li a img {
+    width: 26px;
+    height: 26px;
+  }
+
+  .introducao {
+    margin-top: 76px;
+  }
+
+  .header_menu ul li {
+    margin-top: 15px;
+  }
+
+  .introducao-interna {
+    margin-top: 76px;
+  }
+
+  .produtos-item h2 {
+    top: -150px;
+  }
+
+  .produto-icone {
+    padding: 41px 0;
+  }
+
+  .produto-descricao {
+    font-size: 14px;
+    padding: 20px 30px;
+    height: 128px;
+  }
+
+  .produtos-item .descricao ul li {
+    width: 181px;
+    height: 46px;
+  }
+}
+
+@media only screen and (max-width: 787px) {
+  .header {
+    position: relative;
+    padding-bottom: 0;
+  }
+
+  .introducao h1 {
+    font-size: 36px;
+  }
+
+  .header img {
+    margin: 0 auto 10px auto;
+  }
+
+  .header_menu {
+    text-align: center;
+  }
+
+  .header_menu ul li {
+    margin: 5px;
+  }
+
+  .header_menu ul li a {
+    border: 4px solid #000;
+    width: 136px;
+    display: block;
+    float: left;
+  }
+
+  .header_menu ul li a:hover {
+    border-color: #fff;
+  }
+
+  .introducao {
+    margin-top: 0px;
+    padding-top: 60px;
+    background: url("../img/bg-mobile.jpg") no-repeat center;
+    background-size: cover;
+  }
+
+  .call {
+    padding-top: 10px;
+  }
+
+  .qualidade:after {
+    display: none;
+  }
+
+  .introducao-interna {
+    margin-top: 0;
+  }
+
+  .header_menu .menu-ativo {
+    border-color: #fff;
+  }
+
+  .missao-sobre p {
+    font-size: 14px;
+    line-height: 20px;
+    padding-right: 0px;
+  }
+
+  .missao-sobre ul li {
+    font-size: 14px;
+    line-height: 25px;
+  }
+
+  .produtos-item h2 {
+    top: -100px;
+    margin-bottom: -68px;
+  }
+
+  .produto-icone {
+    padding: 41px 0;
+  }
+
+  .produto-descricao {
+    font-size: 14px;
+    padding: 20px 30px;
+    height: auto;
+  }
+
+  .produtos-item .descricao ul li {
+    width: 149px;
+    height: 46px;
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 14px;
+  }
+
+  .orcamento form {
+    padding-right: 0px;
+  }
+
+  .orcamento-dados ul {
+    padding-right: 0px;
+  }
+
+  .orcamento form {
+    padding-right: 0px;
+    margin-bottom: 20px;
+  }
+}
